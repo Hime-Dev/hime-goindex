@@ -4,42 +4,42 @@
   "index": "Ana Sayfa",
   "folder": "Klasör",
   "notify": {
-    "title": "Notify"
+    "title": "Bildirim"
   },
   "copy": {
-    "text": "Copy",
-    "success": "Copy successful",
-    "error": "Copy failed"
+    "text": "Kopyala",
+    "success": "Başarılı bir şekilde kopyalandı",
+    "error": "Kopyalama başarısız oldu"
   },
   "list": {
     "view": {
-      "gridMode": "Grid view",
-      "listMode": "List view"
+      "gridMode": "Kare Görünüm",
+      "listMode": "Liste Görünüm"
     },
-    "auth": "Directory encryption, please enter password",
+    "auth": "Dizin şifreli, lütfen parolanızı giriniz.",
     "title": {
       "file": "Dosya",
-      "moditime": "Değiştirlme Tarihi",
+      "moditime": "Değiştirilme Tarihi",
       "size": "Boyut",
-      "operation": "Actions"
+      "operation": "Eylem"
     },
     "loading": "Yükleniyor...",
     "opt": {
-      "copy": "Copy link",
-      "newTab": "Open a new tab",
-      "download": "Download"
+      "copy": "Bağlantı kopyalandı",
+      "newTab": "Yeni sekmede a.",
+      "download": "İndir"
     },
     "total": "Toplam",
-    "item": "Öğe"
+    "item": "öğe"
   },
   "search": {
-    "placeholder": "Search resources..."
+    "placeholder": "Kaynaklarda Ara..."
   },
   "page": {
     "video": {
       "play": "Oynat",
       "download": "İndir",
-      "link": "Download link"
+      "link": "İndirme Bağlantısı"
     },
     "text": {
       "loading": "Yükleniyor..."
@@ -52,10 +52,10 @@
     }
   },
   "checkVersion": {
-    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+    "tips": "Yeni versiyon yayımlandı, <a href='${url}'>Github paketini inceleyebilirsiniz.</a>"
   },
   "error": {
-    "shortcut_not_down": "Shortcut can't open/download",
-    "401": "Unauthorized, please login"
+    "shortcut_not_down": "Kısa yollar açılamaz/indirilemez.",
+    "401": "Yetkisiz erişim, lütfen giriş yapınız."
   }
 }

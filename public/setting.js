@@ -3,23 +3,13 @@ var authConfig = {
   roots: [
     {
       id: "",
-      name: "TeamDrive",
+      name: "GDRIVE",
       pass: "",
-    },
-    {
-      id: "root",
-      name: "PriveDrive",
-      pass: "",
-    },
-    {
-      id: "",
-      name: "folder1",
-      pass: "",
-    },
+    }
   ],
 };
 var themeOptions = {
-  // en/zh-chs/zh-cht
+  // tr/en/zh-chs/zh-cht
   languages: "tr",
   render: {
     head_md: true,
