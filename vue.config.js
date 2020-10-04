@@ -125,8 +125,8 @@ module.exports = {
 
   pluginOptions: {
     i18n: {
-      locale: "zh-chs",
-      fallbackLocale: "en",
+      locale: "tr",
+      fallbackLocale: "tr",
       localeDir: "locales",
       enableInSFC: true,
     },
