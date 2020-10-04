@@ -15,7 +15,7 @@ export default {
   },
   data: function() {
     return {
-      github: "https://github.com/Hime-Dev/hime-goindex",
+      github: "https://github.com/Aicirou/goindex-theme-acrou",
     };
   },
   watch: {

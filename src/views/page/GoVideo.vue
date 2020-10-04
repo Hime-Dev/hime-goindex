@@ -186,18 +186,18 @@ export default {
       return [
         {
           name: "AnimeWho?",
-          icon: this.$cdnpath("images/player/iina.png"),
-          scheme: "iina://weblink?url=" + this.videoUrl,
+          icon: this.$cdnpath("images/player/aw"),
+          scheme: "https://animewho.com",
+        },
+        {
+          name: "Discord",
+          icon: this.$cdnpath("images/player/dc.png"),
+          scheme: "https://",
         },
         {
           name: "AnimeHaber",
-          icon: this.$cdnpath("images/player/potplayer.png"),
-          scheme: "potplayer://" + this.videoUrl,
-        },
-        {
-          name: "DDL",
-          icon: this.$cdnpath("images/player/vlc.png"),
-          scheme: "vlc://" + this.videoUrl,
+          icon: this.$cdnpath("images/player/ah.png"),
+          scheme: "https://animehaber.com",
         },
         {
           name: "Thunder",
