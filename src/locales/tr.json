@@ -1,0 +1,61 @@
+{
+  "_name": "Türkçe",
+  "languages": "Diller",
+  "index": "Ana Sayfa",
+  "folder": "Klasör",
+  "notify": {
+    "title": "Notify"
+  },
+  "copy": {
+    "text": "Copy",
+    "success": "Copy successful",
+    "error": "Copy failed"
+  },
+  "list": {
+    "view": {
+      "gridMode": "Grid view",
+      "listMode": "List view"
+    },
+    "auth": "Directory encryption, please enter password",
+    "title": {
+      "file": "File",
+      "moditime": "Modified Time",
+      "size": "Size",
+      "operation": "Actions"
+    },
+    "loading": "Yükleniyor...",
+    "opt": {
+      "copy": "Copy link",
+      "newTab": "Open a new tab",
+      "download": "Download"
+    },
+    "total": "Total",
+    "item": "item"
+  },
+  "search": {
+    "placeholder": "Search resources..."
+  },
+  "page": {
+    "video": {
+      "play": "Oynat",
+      "download": "İndir",
+      "link": "Download link"
+    },
+    "text": {
+      "loading": "Yükleniyor..."
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "Önbelleği Temizle",
+      "success": "Önbelleğiniz Temizlendi"
+    }
+  },
+  "checkVersion": {
+    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+  },
+  "error": {
+    "shortcut_not_down": "Shortcut can't open/download",
+    "401": "Unauthorized, please login"
+  }
+}
