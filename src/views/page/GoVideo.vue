@@ -155,14 +155,13 @@ export default {
         ratio: "16:9",
         controls: [
           "play-large",
-          "restart",
           "play",
           "progress",
           "current-time",
           "duration",
-          "mute",
+          "restart",
+		  "mute",
           "volume",
-          "captions",
           "settings",
           "pip",
           "airplay",
@@ -185,54 +184,44 @@ export default {
     players() {
       return [
         {
-          name: "AnimeWho?",
+          name: "Anime İzle?",
           icon: this.$cdnpath("images/player/aw"),
           scheme: "https://animewho.com",
         },
         {
-          name: "Discord",
-          icon: this.$cdnpath("images/player/dc.png"),
-          scheme: "https://",
+          name: "Manga Oku",
+          icon: this.$cdnpath("images/player/mw.png"),
+          scheme: "https://animewho.com",
         },
         {
-          name: "AnimeHaber",
+          name: "Haber Yaz",
           icon: this.$cdnpath("images/player/ah.png"),
           scheme: "https://animehaber.com",
         },
         {
-          name: "Thunder",
-          icon: this.$cdnpath("images/player/thunder.png"),
-          scheme: "thunder://" + this.getThunder,
+          name: "Sohbet Et",
+          icon: this.$cdnpath("images/player/dc.png"),
+          scheme: "https://discord.com/invite/kXkg3pY",
         },
         {
-          name: "Aria2",
-          icon: this.$cdnpath("images/player/aria2.png"),
-          scheme: 'javascript:alert("暂未实现")',
+          name: "Mobil Uygulama",
+          icon: this.$cdnpath("images/player/aw.png"),
+          scheme: "https://discord.com/invite/kXkg3pY",
         },
         {
-          name: "nPlayer",
-          icon: this.$cdnpath("images/player/nplayer.png"),
-          scheme: "nplayer-" + this.videoUrl,
+          name: "Ekip Alımları",
+          icon: this.$cdnpath("images/player/ah.png"),
+          scheme: "https://animewho.com/ekip-alimlari",
         },
         {
-          name: "MXPlayer(Free)",
-          icon: this.$cdnpath("images/player/mxplayer.png"),
-          scheme:
-            "intent:" +
-            this.videoUrl +
-            "#Intent;package=com.mxtech.videoplayer.ad;S.title=" +
-            this.title +
-            ";end",
+          name: "Reklamlı Alan",
+          icon: this.$cdnpath("images/player/aw.png"),
+          scheme: "https://discord.com/invite/kXkg3pY",
         },
         {
-          name: "MXPlayer(Pro)",
-          icon: this.$cdnpath("images/player/mxplayer.png"),
-          scheme:
-            "intent:" +
-            this.videoUrl +
-            "#Intent;package=com.mxtech.videoplayer.pro;S.title=" +
-            this.title +
-            ";end",
+          name: "Reklamlı Alan 2",
+          icon: this.$cdnpath("images/player/ah.png"),
+          scheme: "https://discord.com/invite/kXkg3pY",
         },
       ];
     },
