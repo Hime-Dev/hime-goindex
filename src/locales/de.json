@@ -1,0 +1,61 @@
+{
+  "_name": "German",
+  "languages": "Sprachen",
+  "index": "Startseite",
+  "folder": "Ordner",
+  "notify": {
+    "title": "Benachrichtigen"
+  },
+  "copy": {
+    "text": "Kopieren",
+    "success": "Kopieren erfolgreich",
+    "error": "Kopieren fehlgeschlagen"
+  },
+  "list": {
+    "view": {
+      "gridMode": "Rasteransicht",
+      "listMode": "Listenansicht"
+    },
+    "auth": "Sprachen0",
+    "title": {
+      "file": "Sprachen1",
+      "moditime": "Sprachen2",
+      "size": "Sprachen3",
+      "operation": "Sprachen4"
+    },
+    "loading": "Sprachen5",
+    "opt": {
+      "copy": "Sprachen6",
+      "newTab": "Sprachen7",
+      "download": "Sprachen8"
+    },
+    "total": "Sprachen9",
+    "item": "Startseite0"
+  },
+  "search": {
+    "placeholder": "Startseite1"
+  },
+  "page": {
+    "video": {
+      "play": "Startseite2",
+      "download": "Sprachen8",
+      "link": "Startseite3"
+    },
+    "text": {
+      "loading": "Sprachen5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "Startseite4",
+      "success": "Startseite5"
+    }
+  },
+  "checkVersion": {
+    "tips": "Startseite6"
+  },
+  "error": {
+    "401": "Startseite7",
+    "shortcut_not_down": "Startseite8"
+  }
+}

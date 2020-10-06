@@ -113,7 +113,7 @@ module.exports = {
     publicPath,
     proxy: {
       "/api": {
-        target: "https://ddl.animewho.com/",
+        target: "https://ddl.animewho.workers.dev/",
         ws: true,
         changeOrigin: true,
         pathRewrite: {

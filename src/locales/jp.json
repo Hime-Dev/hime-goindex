@@ -1,0 +1,61 @@
+{
+  "_name": "Japanese",
+  "languages": "言語",
+  "index": "ホーム",
+  "folder": "フォルダ",
+  "notify": {
+    "title": "通知"
+  },
+  "copy": {
+    "text": "コピー",
+    "success": "コピー成功",
+    "error": "コピー失敗"
+  },
+  "list": {
+    "view": {
+      "gridMode": "グリッドビュー",
+      "listMode": "リストビュー"
+    },
+    "auth": "言語0",
+    "title": {
+      "file": "言語1",
+      "moditime": "言語2",
+      "size": "言語3",
+      "operation": "言語4"
+    },
+    "loading": "言語5",
+    "opt": {
+      "copy": "言語6",
+      "newTab": "言語7",
+      "download": "言語8"
+    },
+    "total": "言語9",
+    "item": "ホーム0"
+  },
+  "search": {
+    "placeholder": "ホーム1"
+  },
+  "page": {
+    "video": {
+      "play": "ホーム2",
+      "download": "言語8",
+      "link": "ホーム3"
+    },
+    "text": {
+      "loading": "言語5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "ホーム4",
+      "success": "ホーム5"
+    }
+  },
+  "checkVersion": {
+    "tips": "ホーム6"
+  },
+  "error": {
+    "401": "ホーム7",
+    "shortcut_not_down": "ホーム8"
+  }
+}

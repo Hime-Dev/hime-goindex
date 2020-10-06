@@ -1,0 +1,61 @@
+{
+  "_name": "Hindi",
+  "languages": "भाषाएँ",
+  "index": "होम",
+  "folder": "फ़ोल्डर",
+  "notify": {
+    "title": "सूचित करें"
+  },
+  "copy": {
+    "text": "कॉपी",
+    "success": "कॉपी सफल",
+    "error": "कॉपी फेल"
+  },
+  "list": {
+    "view": {
+      "gridMode": "ग्रिड दृश्य",
+      "listMode": "सूची दृश्य"
+    },
+    "auth": "भाषाएँ0",
+    "title": {
+      "file": "भाषाएँ1",
+      "moditime": "भाषाएँ2",
+      "size": "भाषाएँ3",
+      "operation": "भाषाएँ4"
+    },
+    "loading": "भाषाएँ5",
+    "opt": {
+      "copy": "भाषाएँ6",
+      "newTab": "भाषाएँ7",
+      "download": "भाषाएँ8"
+    },
+    "total": "भाषाएँ9",
+    "item": "होम0"
+  },
+  "search": {
+    "placeholder": "होम1"
+  },
+  "page": {
+    "video": {
+      "play": "होम2",
+      "download": "भाषाएँ8",
+      "link": "होम3"
+    },
+    "text": {
+      "loading": "भाषाएँ5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "होम4",
+      "success": "होम5"
+    }
+  },
+  "checkVersion": {
+    "tips": "होम6"
+  },
+  "error": {
+    "401": "होम7",
+    "shortcut_not_down": "होम8"
+  }
+}

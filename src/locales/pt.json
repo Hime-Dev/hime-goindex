@@ -1,0 +1,56 @@
+{
+  "_name": "Português",
+  "languages": "Línguas",
+  "index": "Início",
+  "folder": "Pasta",
+  "notify": {
+    "title": "Notificação"
+  },
+  "copy": {
+    "success": "Cópia bem sucedida",
+    "error": "Falha em copiar"
+  },
+  "list": {
+    "view": {
+      "gridMode": "Exibição em grade",
+      "listMode": "Exibição em lista"
+    },
+    "auth": "Diretório criptografado, digite a senha",
+    "title": {
+      "file": "Arquivo",
+      "moditime": "Hora modificada",
+      "size": "Tamanho",
+      "operation": "Ações"
+    },
+    "loading": "Carregando...",
+    "opt": {
+      "copy": "Copiar link",
+      "newTab": "Abrir em uma nova aba",
+      "download": "Baixar"
+    },
+    "total": "Total",
+    "item": "item"
+  },
+  "search": {
+    "placeholder": "Pesquisar recursos..."
+  },
+  "page": {
+    "video": {
+      "play": "Reproduzir",
+      "download": "Baixar",
+      "link": "Link para baixar"
+    },
+    "text": {
+      "loading": "Carregando..."
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "Limpar cache",
+      "success": "Limpeza de cache bem-sucedida"
+    }
+  },
+  "checkVersion": {
+    "tips": "Nova versão detectada, <a href='${url}'>Vá para o GitHub</a>"
+  }
+}

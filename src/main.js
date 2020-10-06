@@ -28,7 +28,7 @@ Vue.use(Loading);
 Vue.use(VueAxios, axios);
 Vue.use(Clipboard);
 Vue.use(VueLazyload, {
-  loading: cdnpath("images/airplane.gif"),
+  loading: cdnpath("images/load.gif"),
 });
 Vue.use(Viewer);
 

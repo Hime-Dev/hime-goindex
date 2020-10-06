@@ -1,0 +1,61 @@
+{
+  "_name": "Korean",
+  "languages": "언어",
+  "index": "홈",
+  "folder": "폴더",
+  "notify": {
+    "title": "알림"
+  },
+  "copy": {
+    "text": "복사",
+    "success": "복사 성공",
+    "error": "복사 실패"
+  },
+  "list": {
+    "view": {
+      "gridMode": "격자보기",
+      "listMode": "목록보기"
+    },
+    "auth": "언어0",
+    "title": {
+      "file": "언어1",
+      "moditime": "언어2",
+      "size": "언어3",
+      "operation": "언어4"
+    },
+    "loading": "언어5",
+    "opt": {
+      "copy": "언어6",
+      "newTab": "언어7",
+      "download": "언어8"
+    },
+    "total": "언어9",
+    "item": "홈0"
+  },
+  "search": {
+    "placeholder": "홈1"
+  },
+  "page": {
+    "video": {
+      "play": "홈2",
+      "download": "언어8",
+      "link": "홈3"
+    },
+    "text": {
+      "loading": "언어5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "홈4",
+      "success": "홈5"
+    }
+  },
+  "checkVersion": {
+    "tips": "홈6"
+  },
+  "error": {
+    "401": "홈7",
+    "shortcut_not_down": "홈8"
+  }
+}

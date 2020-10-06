@@ -1,0 +1,61 @@
+{
+  "_name": "Thai",
+  "languages": "ภาษา",
+  "index": "หน้าแรก",
+  "folder": "โฟลเดอร์",
+  "notify": {
+    "title": "แจ้งเตือน"
+  },
+  "copy": {
+    "text": "คัดลอก",
+    "success": "คัดลอกสำเร็จ",
+    "error": "คัดลอกล้มเหลว"
+  },
+  "list": {
+    "view": {
+      "gridMode": "มุมมองตาราง",
+      "listMode": "มุมมองรายการ"
+    },
+    "auth": "ภาษา0",
+    "title": {
+      "file": "ภาษา1",
+      "moditime": "ภาษา2",
+      "size": "ภาษา3",
+      "operation": "ภาษา4"
+    },
+    "loading": "ภาษา5",
+    "opt": {
+      "copy": "ภาษา6",
+      "newTab": "ภาษา7",
+      "download": "ภาษา8"
+    },
+    "total": "ภาษา9",
+    "item": "หน้าแรก0"
+  },
+  "search": {
+    "placeholder": "หน้าแรก1"
+  },
+  "page": {
+    "video": {
+      "play": "หน้าแรก2",
+      "download": "ภาษา8",
+      "link": "หน้าแรก3"
+    },
+    "text": {
+      "loading": "ภาษา5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "หน้าแรก4",
+      "success": "หน้าแรก5"
+    }
+  },
+  "checkVersion": {
+    "tips": "หน้าแรก6"
+  },
+  "error": {
+    "401": "หน้าแรก7",
+    "shortcut_not_down": "หน้าแรก8"
+  }
+}

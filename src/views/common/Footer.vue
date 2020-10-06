@@ -7,7 +7,7 @@
             <a
               class="tag is-dark"
               href="https://github.com/Hime-Dev/hime-goindex"
-            >goindex-theme-acrou</a>
+            >hime-goindex</a>
             <span class="tag is-light">
               MIT &nbsp;
               <span class="icon">

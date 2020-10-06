@@ -1,0 +1,61 @@
+{
+  "_name": "Arabic",
+  "languages": "اللغات",
+  "index": "الصفحة الرئيسية",
+  "folder": "المجلد",
+  "notify": {
+    "title": "إخطار"
+  },
+  "copy": {
+    "text": "نسخ",
+    "success": "نسخ ناجح",
+    "error": "فشل النسخ"
+  },
+  "list": {
+    "view": {
+      "gridMode": "عرض الشبكة",
+      "listMode": "عرض القائمة"
+    },
+    "auth": "اللغات0",
+    "title": {
+      "file": "اللغات1",
+      "moditime": "اللغات2",
+      "size": "اللغات3",
+      "operation": "اللغات4"
+    },
+    "loading": "اللغات5",
+    "opt": {
+      "copy": "اللغات6",
+      "newTab": "اللغات7",
+      "download": "اللغات8"
+    },
+    "total": "اللغات9",
+    "item": "الصفحة الرئيسية0"
+  },
+  "search": {
+    "placeholder": "الصفحة الرئيسية1"
+  },
+  "page": {
+    "video": {
+      "play": "الصفحة الرئيسية2",
+      "download": "اللغات8",
+      "link": "الصفحة الرئيسية3"
+    },
+    "text": {
+      "loading": "اللغات5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "الصفحة الرئيسية4",
+      "success": "الصفحة الرئيسية5"
+    }
+  },
+  "checkVersion": {
+    "tips": "الصفحة الرئيسية6"
+  },
+  "error": {
+    "401": "الصفحة الرئيسية7",
+    "shortcut_not_down": "الصفحة الرئيسية8"
+  }
+}

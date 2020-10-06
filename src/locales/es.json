@@ -1,0 +1,61 @@
+{
+  "_name": "Spanish",
+  "languages": "Idiomas",
+  "index": "Inicio",
+  "folder": "Carpeta",
+  "notify": {
+    "title": "Notificar"
+  },
+  "copy": {
+    "text": "Copia",
+    "success": "Copia exitosa",
+    "error": "Copia fallida"
+  },
+  "list": {
+    "view": {
+      "gridMode": "Vista de cuadrícula",
+      "listMode": "Vista de lista"
+    },
+    "auth": "Idiomas0",
+    "title": {
+      "file": "Idiomas1",
+      "moditime": "Idiomas2",
+      "size": "Idiomas3",
+      "operation": "Idiomas4"
+    },
+    "loading": "Idiomas5",
+    "opt": {
+      "copy": "Idiomas6",
+      "newTab": "Idiomas7",
+      "download": "Idiomas8"
+    },
+    "total": "Idiomas9",
+    "item": "Inicio0"
+  },
+  "search": {
+    "placeholder": "Inicio1"
+  },
+  "page": {
+    "video": {
+      "play": "Inicio2",
+      "download": "Idiomas8",
+      "link": "Inicio3"
+    },
+    "text": {
+      "loading": "Idiomas5"
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "Inicio4",
+      "success": "Inicio5"
+    }
+  },
+  "checkVersion": {
+    "tips": "Inicio6"
+  },
+  "error": {
+    "401": "Inicio7",
+    "shortcut_not_down": "Inicio8"
+  }
+}

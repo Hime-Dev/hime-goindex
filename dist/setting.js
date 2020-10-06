@@ -3,7 +3,7 @@ var authConfig = {
   roots: [
     {
       id: "",
-      name: "GDRIVE",
+      name: "Anime & Manga",
       pass: "",
     }
   ],
@@ -23,7 +23,7 @@ var themeOptions = {
     autoplay: true,
   },
   audio: {
-    autoplay: false,
+    autoplay: true,
   },
 };
 window.gdconfig = JSON.parse(

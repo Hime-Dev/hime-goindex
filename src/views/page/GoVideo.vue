@@ -159,13 +159,11 @@ export default {
           "progress",
           "current-time",
           "duration",
-          "restart",
 		  "mute",
           "volume",
           "settings",
           "pip",
           "airplay",
-          "download",
           "fullscreen",
         ],
         ...options,
@@ -185,7 +183,7 @@ export default {
       return [
         {
           name: "Anime İzle?",
-          icon: this.$cdnpath("images/player/aw"),
+          icon: this.$cdnpath("images/player/aw.png"),
           scheme: "https://animewho.com",
         },
         {
@@ -214,14 +212,14 @@ export default {
           scheme: "https://animewho.com/ekip-alimlari",
         },
         {
-          name: "Reklamlı Alan",
-          icon: this.$cdnpath("images/player/aw.png"),
-          scheme: "https://discord.com/invite/kXkg3pY",
+          name: "Twitter",
+          icon: this.$cdnpath("images/player/tw.png"),
+          scheme: "https://twitter.com/AnimeWho1",
         },
         {
-          name: "Reklamlı Alan 2",
-          icon: this.$cdnpath("images/player/ah.png"),
-          scheme: "https://discord.com/invite/kXkg3pY",
+          name: "Instagram",
+          icon: this.$cdnpath("images/player/insta.png"),
+          scheme: "https://www.instagram.com/animewho.com_official/",
         },
       ];
     },
